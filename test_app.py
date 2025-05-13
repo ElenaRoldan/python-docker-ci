@@ -2,9 +2,9 @@ import pytest
 from app import app as flask_app # Renomme pour éviter conflit
 
 @pytest.fixture
-def app():2
+def app():
     """Crée une instance de l'application Flask pour les tests."""
-    yield flask_appi
+    yield flask_app
 
 @pytest.fixture
 def client(app):
