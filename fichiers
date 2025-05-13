@@ -1,0 +1,30 @@
+[33mcommit c2220a985d31253155b0266fc2b9904007f4ad5d[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Héléna ROLDAN <helena.roldan@aidalinfo.fr>
+Date:   Tue May 13 09:25:21 2025 +0200
+
+    Add Github Action CI workflows
+
+[33mcommit 8f437133232f5c3ba67655a569082dbf318a4bf3[m
+Author: Héléna ROLDAN <helena.roldan@aidalinfo.fr>
+Date:   Tue May 13 09:23:17 2025 +0200
+
+    Add Github Action CI workflows
+
+[33mcommit 6c22bfe9d0053e9491331155b0fdb713d9b597ac[m
+Merge: 6253d49 3632d77
+Author: Héléna ROLDAN <helena.roldan@aidalinfo.fr>
+Date:   Tue May 13 09:02:52 2025 +0200
+
+    Merge branch 'main' of github.com:ElenaRoldan/python-docker-ci
+
+[33mcommit 6253d496f3a28efd652e15b8a5c730819db28798[m
+Author: Héléna ROLDAN <helena.roldan@aidalinfo.fr>
+Date:   Tue May 13 09:01:12 2025 +0200
+
+    Initial commit: Flask app with URL param, tests, Dockerfile
+
+[33mcommit 3632d773fb68fc2a0fa4cbe33e51295a54ce7f46[m
+Author: HelenaRoldan <163871911+ElenaRoldan@users.noreply.github.com>
+Date:   Tue May 13 08:53:01 2025 +0200
+
+    Initial commit
